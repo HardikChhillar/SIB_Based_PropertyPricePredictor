@@ -369,15 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **APIs**: Google Maps Static API, Mapbox Static Images API
 - **Grad-CAM Implementation**: Based on the paper "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
 
-## 📧 Contact
 
-For questions or feedback, please open an issue or contact:
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
----
 
 ⭐ If you find this project helpful, please give it a star!
 
